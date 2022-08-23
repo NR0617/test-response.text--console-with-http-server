@@ -2,7 +2,6 @@
 //     const data = await fetch("http://192.168.4.247:8080");
 //     console.log(data.json());
 // };
-
 //func();
 
 // const func = () => {
